@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mario Alberto de la Garza
+N:de la Garza;Mario Alberto;;;
+ORG:ERCOT
+TITLE:Manager, Generation Reliability Integration
+TEL;TYPE=CELL:+1 (737) 975-5802
+EMAIL;TYPE=INTERNET:Mario.delaGarza@ercot.com
+URL:https://ercot.com
+ADR;TYPE=WORK:;;2705 West Lake Drive;Taylor;Texas;76574;USA
+item1.URL;type=pref:https://www.linkedin.com/in/engmadlg
+item1.X-ABLabel:LinkedIn
+END:VCARD
